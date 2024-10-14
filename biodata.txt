@@ -1,7 +1,1 @@
-
-<<<<<<< HEAD
 nama: syahrul habibil mahbub
-tanggal lahir : 22 april 2006
-kelas : 12 TKJ 
-=======
->>>>>>> parent of 6fe6846 (mengubah nama menjadi nama lengkap)
